@@ -8475,9 +8475,10 @@ react-focus-lock@^1.18.3:
     prop-types "^15.6.2"
     react-clientside-effect "^1.2.0"
 
-react-form@2.16.0:
-  version "2.16.0"
-  resolved "https://registry.yarnpkg.com/react-form/-/react-form-2.16.0.tgz#db7c4d1145a0daa0056010c12bbc5a2f0d749f5f"
+react-form@^2.16.0:
+  version "2.16.3"
+  resolved "https://registry.yarnpkg.com/react-form/-/react-form-2.16.3.tgz#c45a575483696ea3f99cf271984fcabcf470f1b2"
+  integrity sha512-Pp0XFvEUkIWUImEsyi8DQ7j3Ls6h8J7BCXPwIzBOv5ZgOynLFwJX+/gYqQRNtSZbjPP4+3FVA4zW3Qktq7H+lw==
   dependencies:
     babel-runtime "^6.26.0"
     circular-json "^0.4.0"
